@@ -1,0 +1,17 @@
+.App {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.product-card {
+  position: relative;
+}
+
+.product-card-image {
+  transition: transform 700ms ease-out;
+}
+
+.product-card:hover .product-card-image {
+  transform: scale(1.05);
+}
