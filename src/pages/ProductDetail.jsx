@@ -19,7 +19,7 @@ const ProductDetail = () => {
   useEffect(() => {
     window.scrollTo(0, 0)
     if (product) {
-      document.title = `${product.name} | Élégante`
+      document.title = `${product.name} | Liora Gifts`
     }
   }, [id, product])
 

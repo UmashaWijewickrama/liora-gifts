@@ -20,7 +20,7 @@ const Shop = () => {
   useEffect(() => {
     window.scrollTo(0, 0)
     const categoryData = categories.find(c => c.id === category)
-    document.title = categoryData ? `${categoryData.name} | Élégante` : 'Shop | Élégante'
+    document.title = categoryData ? `${categoryData.name} | Liora Gifts` : 'Shop | Liora Gifts'
   }, [category])
 
   useEffect(() => {

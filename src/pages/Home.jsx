@@ -17,7 +17,7 @@ const Home = () => {
 
   useEffect(() => {
     window.scrollTo(0, 0)
-    document.title = 'Élégante | Luxury Ladies Accessories'
+    document.title = 'Liora Gifts | Whisper of you'
   }, [])
 
   const featuredProducts = products.filter(p => p.featured).slice(0, 4)
