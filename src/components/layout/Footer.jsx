@@ -9,7 +9,7 @@ const Footer = () => {
           {/* Brand */}
           <div>
             <h3 className="font-display text-2xl font-bold text-champagne-400 mb-4">
-              Élégante
+              Liora Gifts
             </h3>
             <p className="text-gray-300 text-sm leading-relaxed mb-6">
               Curating timeless luxury accessories for the discerning woman.
@@ -76,8 +76,8 @@ const Footer = () => {
             </h4>
             <ul className="space-y-3 text-sm text-gray-300">
               <li>umshsara2019@gmail.com</li>
-              <li>+1 (212) 555-1234</li>
-              <li>123 Madison Avenue<br />New York, NY 10016</li>
+              <li>+94 (77) 825-4285</li>
+              <li>Kurunegala,<br />Sri Lanka.</li>
             </ul>
           </div>
         </div>
